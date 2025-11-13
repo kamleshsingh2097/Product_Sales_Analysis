@@ -12,8 +12,3 @@ Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/S
 ### Dataset:
 The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
 
-
-
-
-
-# Product_Sales_Analysis
